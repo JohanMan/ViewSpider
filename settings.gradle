@@ -1,0 +1,6 @@
+rootProject.name='ViewSpider'
+include ':app'
+include ':view-spider-processor'
+include ':view-spider-annotation'
+include ':module-user'
+include ':view-spider'

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/name_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My name is Johan" />
+
+    <CheckBox
+        android:id="@+id/sex_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Man" />
+
+</LinearLayout>
